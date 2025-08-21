@@ -1,8 +1,8 @@
+# NAME: DINESH R
+# DATE: 14/08/2025
+
 # Echoserver
 Echo server and client using python socket
-
-# NAME: DINESH R
-# DATE: 21/08/2025
 
 # AIM:
 
